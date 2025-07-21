@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Detector</title>
+    <link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/1209/1209961.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="body-bg"></div>
+    <div class="animated-gradient"></div>
+    <div class="container">
+        <h1>Phishing Detector</h1>
+        <div class="info-text">
+            Enter any message or link below to check if it is <b>phishing</b> or <b>safe</b>.<br>
+            This tool uses <b>machine learning</b> to analyze your input instantly.
+        </div>
+        <textarea id="inputText" placeholder="Enter your message or link..."></textarea>
+        <button onclick="analyze()">Analyze</button>
+        <div id="result"></div>
+    </div>
+    <div id="loadingSpinner" style="display:none;"></div>
+    <script src="script.js"></script>
+    <audio id="alertSound" src="alart.mp3" preload="auto"></audio>
+</body>
+</html> 

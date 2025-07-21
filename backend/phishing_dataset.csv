@@ -1,0 +1,57 @@
+text,label
+"Congratulations! You've won a $1000 gift card. Click here to claim: http://bit.ly/fakewin",phishing
+"Your account has been suspended due to suspicious activity. Please verify your details here: http://secure-login-update.com",phishing
+"URGENT: Your package is waiting for delivery. Confirm your address now: http://usps-track.info/abc",phishing
+"Free iPhone 15 for you! Limited offer. Get it now: http://apple-giveaway.site",phishing
+"Hey, check out this cool article I found: https://www.example.com/article",safe
+"Meeting reminder for tomorrow at 10 AM. See you there!",safe
+"Here is the document we discussed: https://docs.google.com/document/d/12345",safe
+"Let's catch up next week. Are you free on Tuesday?",safe
+"Your order #5678 has been shipped. Track it here: https://www.fedex.com/tracking",safe
+"Click this link to reset your password: http://your-real-domain.com/reset",phishing
+"Verify your bank account now to avoid suspension: http://bankofamerica.support-update.net",phishing
+"You have a new message from a friend: http://facebook-profile-viewer.biz",phishing
+"Hi Mom, I'm safe. Will call you later.",safe
+"Project update: Please review the latest changes on our GitHub repo: https://github.com/our-project",safe
+"Download our new app for free music: http://get-free-music-now.xyz",phishing
+"Your electricity bill is overdue. Pay now to avoid disconnection: http://ebill-pay.online",phishing
+"Check out my new blog post: https://my-personal-blog.com/new-post",safe
+"Reminder: Parent-teacher meeting on Friday at 3 PM.",safe
+"Special offer just for you! 90% off on all products. Shop now: http://super-deals-4u.com",phishing
+"Your Apple ID is locked. Unlock it here: http://apple-id-support.co",phishing
+"Happy birthday! Hope you have a great day.",safe
+"Team lunch today at 1 PM at the usual spot.",safe
+"Your Netflix subscription is about to expire. Renew now: http://netflix-renewal.info",phishing
+"You are a lucky winner of our lottery. Claim your prize: http://lottery-winner.club",phishing
+"Please find the attached report for your review.",safe
+"Let's go for a hike this weekend.",safe
+"A suspicious login was detected on your account. Secure it now: http://google-security-alert.org",phishing
+"You have been selected for a job interview. More details here: http://career-opportunities.work",phishing
+"Thanks for your purchase. Here is your receipt.",safe
+"Can you please send me the presentation slides?",safe
+"Get a free trial of our premium service: http://premium-service-trial.net",phishing
+"Your computer is infected with a virus. Scan now: http://antivirus-scan-online.biz",phishing
+"The meeting has been rescheduled to 4 PM.",safe
+"Here are the photos from our trip: https://photos.app.goo.gl/abcdef",safe
+"Your Amazon account has been flagged. Please login to verify: http://amazon-customer-service.co",phishing
+"Claim your free crypto now! http://free-crypto-airdrop.io",phishing
+"Dinner at 8 PM tonight?",safe
+"Don't forget to submit your timesheet by the end of the day.",safe
+"Your social security number is at risk. Protect it now: http://ssa-protection.com",phishing
+"Your tax refund is waiting for you. Claim it here: http://irs-refund-online.org",phishing
+"Hi, your payment for order 123 failed. Please update your payment info at http://update-payment.info",phishing
+"Hey, I shared a file with you on Dropbox. You can view it here: https://www.dropbox.com/s/1234/shared-file.pdf",safe
+"Your PayPal account has unusual login activity. Secure your account now: http://paypal-security-check.com/login",phishing
+"Weekly project sync agenda is ready. Please review before the meeting.",safe
+"You have received a new voice message. Listen here: http://voicemail-service.net/listen",phishing
+"Happy anniversary! Can't believe it's been another year.",safe
+"Warning! Your Microsoft account will be closed in 24 hours. Reactivate here: http://microsoft.reactivate-account.org",phishing
+"Your monthly statement is ready to view online.",safe
+"We have detected a virus on your device. Please run a scan immediately. http://antivirus-online-scan.me",phishing
+"Remember to water the plants.",safe
+"A wire transfer of $5000 has been initiated from your account. If this was not you, cancel here: http://chase.cancel-transfer.com",phishing
+"Can you pick up milk on your way home?",safe
+"Your iCloud storage is full. Upgrade your plan to get more space: http://apple.icloud-storage-upgrade.com",phishing
+"Your LinkedIn profile has a new view. See who it is.",safe
+"Final reminder: Your domain will expire tomorrow. Renew now to keep your website online: http://godaddy.renew-domain.net",phishing
+"The weather will be sunny tomorrow!",safe 
